@@ -39,6 +39,7 @@ LAYOUT		;an extra '@' at the end is a dead key
 0b	0		0	005d	6	-1	-1	-1	-1		// RIGHT SQUARE BRACKET, DIGIT SIX, <none>, <none>, <none>, <none>
 0c	OEM_4		0	0021	8	-1	-1	-1	-1		// EXCLAMATION MARK, DIGIT EIGHT, <none>, <none>, <none>, <none>
 0d	OEM_6		0	0023	0060	-1	-1	-1	-1		// NUMBER SIGN, GRAVE ACCENT, <none>, <none>, <none>, <none>
+0e	BACK		0	0008	007e	-1	-1	-1	-1		// BACKSPACE, DELETE, <none>, <none>, <none>, <none>
 10	Q		0	003b	003a	-1	-1	-1	-1		// SEMICOLON, COLON, <none>, <none>, <none>, <none>
 11	W		0	002c	003c	-1	-1	-1	-1		// COMMA, LESS-THAN SIGN, <none>, <none>, <none>, <none>
 12	E		0	002e	003e	-1	-1	-1	-1		// FULL STOP, GREATER-THAN SIGN, <none>, <none>, <none>, <none>
