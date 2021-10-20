@@ -1,4 +1,4 @@
-KBD	DvorakES	"Programmer-Dvorak en Español"
+KBD	DvorakES	"Programmer-Dvorak en Español v2"
 
 COPYRIGHT	"(c) 2021 BaruStudio"
 
@@ -8,7 +8,7 @@ LOCALENAME	"es-419"
 
 LOCALEID	"0000580a"
 
-VERSION	1.0
+VERSION	2.0
 
 ATTRIBUTES
 ALTGR
